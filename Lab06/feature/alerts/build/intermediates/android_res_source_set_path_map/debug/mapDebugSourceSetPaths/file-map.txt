@@ -1,0 +1,9 @@
+com.example.feature.alerts-pngs-0 /home/drajev/AndroidStudioProjects/Lab06/feature/alerts/build/generated/res/pngs/debug
+com.example.feature.alerts-updated_navigation_xml-1 /home/drajev/AndroidStudioProjects/Lab06/feature/alerts/build/generated/updated_navigation_xml/debug
+com.example.feature.alerts-mergeDebugResources-2 /home/drajev/AndroidStudioProjects/Lab06/feature/alerts/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.feature.alerts-mergeDebugResources-3 /home/drajev/AndroidStudioProjects/Lab06/feature/alerts/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.feature.alerts-debug-4 /home/drajev/AndroidStudioProjects/Lab06/feature/alerts/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.feature.alerts-debug-5 /home/drajev/AndroidStudioProjects/Lab06/feature/alerts/build/intermediates/packaged_res/debug/packageDebugResources
+com.example.feature.alerts-debug-6 /home/drajev/AndroidStudioProjects/Lab06/feature/alerts/src/debug/res
+com.example.feature.alerts-main-7 /home/drajev/AndroidStudioProjects/Lab06/feature/alerts/src/main/res
+gradleHome-0 /home/drajev/.gradle

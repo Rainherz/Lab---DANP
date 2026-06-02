@@ -1,0 +1,2 @@
+-keep,allowobfuscation,allowshrinking class com.example.feature.dashboard.DashboardViewModel
+-keep,allowobfuscation,allowshrinking class com.example.feature.dashboard.DashboardViewModel
