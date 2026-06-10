@@ -1,0 +1,9 @@
+com.example.feature.dashboard-pngs-0 /home/drajev/AndroidStudioProjects/Lab06/feature/dashboard/build/generated/res/pngs/debug
+com.example.feature.dashboard-updated_navigation_xml-1 /home/drajev/AndroidStudioProjects/Lab06/feature/dashboard/build/generated/updated_navigation_xml/debug
+com.example.feature.dashboard-mergeDebugResources-2 /home/drajev/AndroidStudioProjects/Lab06/feature/dashboard/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.feature.dashboard-mergeDebugResources-3 /home/drajev/AndroidStudioProjects/Lab06/feature/dashboard/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.feature.dashboard-debug-4 /home/drajev/AndroidStudioProjects/Lab06/feature/dashboard/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.feature.dashboard-debug-5 /home/drajev/AndroidStudioProjects/Lab06/feature/dashboard/build/intermediates/packaged_res/debug/packageDebugResources
+com.example.feature.dashboard-debug-6 /home/drajev/AndroidStudioProjects/Lab06/feature/dashboard/src/debug/res
+com.example.feature.dashboard-main-7 /home/drajev/AndroidStudioProjects/Lab06/feature/dashboard/src/main/res
+gradleHome-0 /home/drajev/.gradle

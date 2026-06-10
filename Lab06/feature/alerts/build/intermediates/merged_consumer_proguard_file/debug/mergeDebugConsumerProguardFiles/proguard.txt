@@ -1,0 +1,2 @@
+-keep,allowobfuscation,allowshrinking class com.example.feature.alerts.AlertsViewModel
+-keep,allowobfuscation,allowshrinking class com.example.feature.alerts.AlertsViewModel

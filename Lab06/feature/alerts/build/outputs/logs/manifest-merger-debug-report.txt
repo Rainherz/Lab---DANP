@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/drajev/AndroidStudioProjects/Lab06/feature/alerts/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5540297554486382562.xml:2:13-83
+INJECTED from /home/drajev/AndroidStudioProjects/Lab06/feature/alerts/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5540297554486382562.xml:2:13-83
+	package
+		INJECTED from /home/drajev/AndroidStudioProjects/Lab06/feature/alerts/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5540297554486382562.xml
+	xmlns:android
+		ADDED from /home/drajev/AndroidStudioProjects/Lab06/feature/alerts/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5540297554486382562.xml:2:23-81
+uses-sdk
+INJECTED from /home/drajev/AndroidStudioProjects/Lab06/feature/alerts/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5540297554486382562.xml reason: use-sdk injection requested
+INJECTED from /home/drajev/AndroidStudioProjects/Lab06/feature/alerts/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5540297554486382562.xml
+INJECTED from /home/drajev/AndroidStudioProjects/Lab06/feature/alerts/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5540297554486382562.xml
+	android:targetSdkVersion
+		INJECTED from /home/drajev/AndroidStudioProjects/Lab06/feature/alerts/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5540297554486382562.xml
+	android:minSdkVersion
+		INJECTED from /home/drajev/AndroidStudioProjects/Lab06/feature/alerts/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5540297554486382562.xml
